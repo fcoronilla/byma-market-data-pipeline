@@ -202,4 +202,9 @@ Durante el desarrollo se utilizó asistencia mediante un LLM como herramienta de
 
 
 
+### Entorno de desarrollo
+
+El proyecto fue implementado utilizando **Databricks Free Edition** con **Unity Catalog**, organizando los datos en catálogos, esquemas y tablas Delta.
+
+
 ![alt text](image.png)
