@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Spark
+metastore_db/
+spark-warehouse/
+
+# Logs
+logs/
+*.log
+
+# Data
+*.parquet
+*.delta
+
+.venv/.venv/
+.venv/
+venv/
